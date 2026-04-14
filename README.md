@@ -1,8 +1,8 @@
 # Teal for Omarchy
 
-> [cite_start]Aesthetics are not just a superficial detail; they are fundamental[cite: 7]. [cite_start]A beautiful system is a motivating system, and productivity has always been downstream from motivation[cite: 7].
+> Aesthetics are not just a superficial detail; they are fundamental. A beautiful system is a motivating system, and productivity has always been downstream from motivation.
 
-[cite_start]**Teal** is a unified, monochromatic theme built for the [Omarchy](https://github.com/basecamp/omarchy) distribution[cite: 2]. It was designed under a relentless philosophy of noise reduction. While traditional systems use a rainbow of colors that often distract, Teal operates with surgical precision, highlighting only what truly requires your attention and interaction.
+**Teal** is a unified, monochromatic theme built for the [Omarchy](https://github.com/basecamp/omarchy) distribution. It was designed under a relentless philosophy of noise reduction. While traditional systems use a rainbow of colors that often distract, Teal operates with surgical precision, highlighting only what truly requires your attention and interaction.
 
 ## The Palette
 
@@ -18,37 +18,37 @@ The palette is lean, intentional, and focused on visual comfort for long develop
 Teal is more than just a terminal color scheme; it is a visual injection across the entire OS stack and user-space.
 
 ### Terminals & TUI
-* [cite_start]**Alacritty:** The default Omarchy terminal, optimized for speed[cite: 42, 43].
-* [cite_start]**Kitty & Ghostty:** Modern alternatives with GPU acceleration supported by Omarchy[cite: 44, 45].
-* [cite_start]**Btop:** System monitor with custom gradients[cite: 28].
+* **Alacritty:** The default Omarchy terminal, optimized for speed.
+* **Kitty & Ghostty:** Modern alternatives with GPU acceleration supported by Omarchy.
+* **Btop:** System monitor with custom gradients.
 * **Cava:** TUI audio visualizer.
 
 ### Editors & Productivity
-* [cite_start]**Obsidian:** Custom theme with softened borders and semantic markdown styling[cite: 29, 101].
-* [cite_start]**Sublime Text 4:** Native `.sublime-color-scheme` focused on dual-color hierarchy[cite: 63].
-* [cite_start]**Neovim:** Implicit support mapped through the *Ashen* base theme[cite: 52, 157].
+* **Obsidian:** Custom theme with softened borders and semantic markdown styling.
+* **Sublime Text 4:** Native `.sublime-color-scheme` focused on dual-color hierarchy.
+* **Neovim:** Implicit support mapped through the *Ashen* base theme.
 
 ### System & Interfaces (Wayland/Hyprland)
 * **GTK 3/4:** Native windows, dialog popups, and file choosers.
 * **SwayOSD:** Volume and brightness indicators.
-* [cite_start]**Hyprland Ecosystem:** Global variables propagated via `colors.toml`[cite: 158, 212].
+* **Hyprland Ecosystem:** Global variables propagated via `colors.toml`.
 
 ### Third-Party Apps
 * **Discord / Vencord:** CSS injection via base variables.
-* [cite_start]**Steam:** RGB variable injection bypassing default themes[cite: 131, 132].
+* **Steam:** RGB variable injection bypassing default themes.
 
 ## Installation
 
-[cite_start]Omarchy makes it easy to install and manage extra themes[cite: 208]. To apply the Teal theme to your system, run the following command in your terminal:
+Omarchy makes it easy to install and manage extra themes. To apply the Teal theme to your system, run the following command in your terminal:
 
 ```bash
 omarchy-theme-install https://github.com/marcosaugustoldo/omarchy-teal-theme.git
 ```
 
 ### Activation
-1.  [cite_start]Open the Omarchy Menu with `Super + Alt + Space`[cite: 19].
-2.  [cite_start]Navigate to **Style > Theme**[cite: 27].
+1.  Open the Omarchy Menu with `Super + Alt + Space`.
+2.  Navigate to **Style > Theme**.
 3.  Select **Teal** from the list.
-4.  [cite_start]*Optional:* To cycle through theme-specific backgrounds, use `Super + Ctrl + Space`[cite: 30].
+4.  *Optional:* To cycle through theme-specific backgrounds, use `Super + Ctrl + Space`.
 
 *Built for those who take their craft seriously.*
