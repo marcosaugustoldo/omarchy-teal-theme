@@ -1,0 +1,43 @@
+/**
+    * @name Omarchy Teal
+    * @author DHH / Automator
+    * @version 0.1.1
+    * @description Unified Teal Theme for Omarchy
+    **/
+
+    :root {
+        --color00: #101315;
+        --color01: #101315;
+        --color02: #101315;
+        --color03: #a3a6a7;
+        --color04: #cacccc;
+        --color05: #cacccc;
+        --color06: #cacccc;
+        --color07: #cacccc;
+        --color08: #80b5b4;
+        --color09: #80b5b4;
+        --color10: #80b5b4;
+        --color11: #a3a6a7;
+        --color12: #a3a6a7;
+        --color13: #80b5b4;
+        --color14: #80b5b4;
+        --color15: #80b5b4;
+        --base00: var(--color00);
+        --base01: var(--color01);
+        --base02: var(--color02);
+        --base03: var(--color03);
+        --base04: var(--color04);
+        --base05: var(--color05);
+        --base06: var(--color06);
+        --base07: var(--color07);
+        --base08: var(--color08);
+        --base09: var(--color09);
+        --base0A: var(--color10);
+        --base0B: var(--color11);
+        --base0C: var(--color12);
+        --base0D: var(--color13);
+        --base0E: var(--color14);
+        --base0F: var(--color15);
+}
+
+/* Mantive o restante da estrutura idêntica, as cores acima guiam todo o Vencord dinamicamente pelas variáveis base00 a base0F */
