@@ -38,9 +38,9 @@ To get the exact look from the screenshots, we recommend installing the specific
 
 ### Step 1: Install Recommended GTK & Icon Themes
 
-Open your terminal and run the following commands to install the ![Colloid Themes (by Vince)](https://github.com/vinceliuice) with the matching Teal accents.
+Open your terminal and run the following commands to install the [Colloid Themes (by Vince)](https://github.com/vinceliuice) with the matching Teal accents.
 
-**GTK Theme (![Colloid Dark Teal](https://github.com/vinceliuice/Colloid-gtk-theme)):**
+**GTK Theme ([Colloid Dark Teal](https://github.com/vinceliuice/Colloid-gtk-theme)):**
 
 ```bash
 git clone https://github.com/vinceliuice/Colloid-gtk-theme.git
@@ -48,7 +48,7 @@ cd Colloid-gtk-theme
 ./install -t teal -c dark -s standard --tweaks nord black rimless normal
 ```
 
-**Icon Theme (![Colloid Nord Teal](https://github.com/vinceliuice/Colloid-icon-theme)):**
+**Icon Theme ([Colloid Nord Teal](https://github.com/vinceliuice/Colloid-icon-theme)):**
 
 ```bash
 git clone https://github.com/vinceliuice/Colloid-icon-theme.git
