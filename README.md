@@ -2,6 +2,8 @@
 
 A dark, minimalist, and elegant theme created specifically for the Omarchy distribution. It is focused on productivity and visual comfort, featuring subtle teal accents.
 
+![https://i.ibb.co/HpDyR36P/screenshot-2026-04-16-10-42-43.png]
+
 ## Color Palette
 
 The theme was designed to be easy on the eyes during long working sessions, optimized for Hyprland and Wayland environments:
@@ -58,4 +60,3 @@ If you wish to remove the theme from your system:
 
 ---
 *Built for the Omarchy community.*
-```
