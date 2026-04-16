@@ -1,54 +1,17 @@
-# Teal for Omarchy
+# Solitude
 
-> Aesthetics are not just a superficial detail; they are fundamental. A beautiful system is a motivating system, and productivity has always been downstream from motivation.
+# Installation
 
-**Teal** is a unified, monochromatic theme built for the [Omarchy](https://github.com/basecamp/omarchy) distribution. It was designed under a relentless philosophy of noise reduction. While traditional systems use a rainbow of colors that often distract, Teal operates with surgical precision, highlighting only what truly requires your attention and interaction.
-
-## The Palette
-
-The palette is lean, intentional, and focused on visual comfort for long development sessions.
-
-* **Void (`#101315`):** The absolute background. A secure darkness that anchors the entire interface without straining the eyes.
-* **Dust (`#cacccc`):** The primary text and foreground. High contrast against the background, perfect for reading code and documentation.
-* **Whisper (`#a3a6a7`):** Borders, dividers, secondary text, and code comments. It subtly absorbs the background using modern CSS `color-mix` transparencies.
-* **Focus (`#80b5b4`):** Our signature Teal. The system's only real color, used for links, cursors, selections, syntax keywords, and interactive elements.
-
-## Supported Ecosystem
-
-Teal is more than just a terminal color scheme; it is a visual injection across the entire OS stack and user-space.
-
-### Terminals & TUI
-* **Alacritty:** The default Omarchy terminal, optimized for speed.
-* **Kitty & Ghostty:** Modern alternatives with GPU acceleration supported by Omarchy.
-* **Btop:** System monitor with custom gradients.
-* **Cava:** TUI audio visualizer.
-
-### Editors & Productivity
-* **Obsidian:** Custom theme with softened borders and semantic markdown styling.
-* **Sublime Text 4:** Native `.sublime-color-scheme` focused on dual-color hierarchy.
-* **Neovim:** Implicit support mapped through the *Ashen* base theme.
-
-### System & Interfaces (Wayland/Hyprland)
-* **GTK 3/4:** Native windows, dialog popups, and file choosers.
-* **SwayOSD:** Volume and brightness indicators.
-* **Hyprland Ecosystem:** Global variables propagated via `colors.toml`.
-
-### Third-Party Apps
-* **Discord / Vencord:** CSS injection via base variables.
-* **Steam:** RGB variable injection bypassing default themes.
-
-## Installation
-
-Omarchy makes it easy to install and manage extra themes. To apply the Teal theme to your system, run the following command in your terminal:
+To install this theme, simply use the omarchy-theme-install command:
 
 ```bash
-omarchy-theme-install https://github.com/marcosaugustoldo/omarchy-teal-theme.git
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-solitude-theme.git
 ```
 
-### Activation
-1.  Open the Omarchy Menu with `Super + Alt + Space`.
-2.  Navigate to **Style > Theme**.
-3.  Select **Teal** from the list.
-4.  *Optional:* To cycle through theme-specific backgrounds, use `Super + Ctrl + Space`.
 
-*Built for those who take their craft seriously.*
+
+<img width="1920" height="1080" alt="screenshot-2026-02-28_20-59-57" src="https://github.com/user-attachments/assets/26e43031-6cab-4da1-8815-db095532865d" />
+<img width="1920" height="1080" alt="screenshot-2026-02-28_21-05-35" src="https://github.com/user-attachments/assets/ea7a9a8c-0346-4cc7-afdb-bb923f6e0868" />
+
+#### Recommendations for 3rd-Party App Theming
+Using Bypass Theme-Hook script for GTK, Vesktop, Steam, Spotify etc [LINK](https://github.com/imbypass/omarchy-theme-hook)

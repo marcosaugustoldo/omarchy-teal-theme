@@ -28,21 +28,22 @@ window .symbols {
 }
 
 window .box-wrapper {
-    background: alpha(@base, 1);           /* Transparência leve sobre o papel de parede */
+    background: alpha(@base, 0.95);           /* Transparência leve sobre o papel de parede */
     border: 2px solid alpha(@border, 0.35);   /* Borda visível mas não agressiva */
     border-radius: 12px;                      /* Bordas bem mais arredondadas */
-    padding: 8px;                            /* Margens internas mais confortáveis */
-    margin: 0;
+    padding: 12px;                            /* Margens internas mais confortáveis */
+    margin-left: 100px;
+    margin-right: 100px;
     backdrop-filter: blur(12px);              /* Efeito de vidro fosco suave */
     line-height: 10%;
 }
 
 window .search-container {
     border: 0px solid alpha(@border, 0.2);    /* Borda sutil interna acompanhando as camadas */
-    border-radius: 0px;                      /* Curvatura proporcional ao wrapper */
+    border-radius: 6px;                      /* Curvatura proporcional ao wrapper */
     padding: 10px 8px;                       /* Mais espaço para respirar na digitação */
     margin: 0px;                       /* Espaçamento separando a busca dos resultados */
-    background: alpha(@text, 0);           /* Sobreposição: Fundo sutil derivado da cor do texto */
+    background: alpha(@text, 0.1);           /* Sobreposição: Fundo sutil derivado da cor do texto */
     backdrop-filter: blur(4px);
     line-height: 1em;
 }
