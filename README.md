@@ -15,6 +15,10 @@ The theme was designed to be easy on the eyes during long working sessions, opti
 | **Accent (Teal)** | `#80b5b4` |
 | **Muted/Borders**| `#a3a6a7` |
 
+## Background
+
+![https://i.ibb.co/1JpN7gqb/01-232-A2-E.png](https://i.ibb.co/1JpN7gqb/01-232-A2-E.png)
+
 ## Supported Applications
 
 This theme provides complete and harmonious customization across the entire Omarchy ecosystem:
