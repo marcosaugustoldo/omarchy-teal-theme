@@ -34,33 +34,55 @@ This theme provides complete and harmonious customization across the entire Omar
 
 ## Installation
 
-You can install the theme in Omarchy using two methods:
+To get the exact look from the screenshots, we recommend installing the specific GTK and Icon themes first, and then applying the Omarchy theme.
 
-### Method 1: Via Terminal
-Open your preferred terminal and run the following command:
+### Step 1: Install Recommended GTK & Icon Themes
+
+Open your terminal and run the following commands to install the ![Colloid Themes (by Vince)](https://github.com/vinceliuice) with the matching Teal accents.
+
+**GTK Theme (![Colloid Dark Teal](https://github.com/vinceliuice/Colloid-gtk-theme)):**
+
+```bash
+git clone https://github.com/vinceliuice/Colloid-gtk-theme.git
+cd Colloid-gtk-theme
+./install -t teal -c dark -s standard --tweaks nord black rimless normal
+```
+
+**Icon Theme (![Colloid Nord Teal](https://github.com/vinceliuice/Colloid-icon-theme)):**
+
+```bash
+git clone https://github.com/vinceliuice/Colloid-icon-theme.git
+cd Colloid-icon-theme
+./install -s nord -t teal -b
+```
+
+### Step 2: Install the Omarchy Theme
+
+You can install the main Omarchy theme using two methods:
+
+#### Method A: Via Terminal (Fastest)
+Run the following command:
 
 ```bash
 omarchy-theme-install https://github.com/marcosaugustoldo/omarchy-teal-theme
 ```
 
-### Method 2: Via Omarchy Menu (GUI)
+#### Method B: Via Omarchy Menu (GUI)
 1. Press `Super + Alt + Space` to open the Omarchy control menu.
 2. Navigate to `Install > Style > Theme`.
 3. Paste the URL of this repository: `https://github.com/marcosaugustoldo/omarchy-teal-theme`.
 
 ## How to Apply the Theme
 
-Once installed, you can activate the theme immediately:
-1. Hop directly to the theme selector using `Super + Ctrl + Shift + Space`.
-2. Select **Teal** (or the respective repository name) from the list.
+Once installed, you can activate the theme and its components:
+
+1. **Apply the Omarchy Theme**: Hop directly to the theme selector using `Super + Ctrl + Shift + Space`. Select **Teal** (or the respective repository name) from the list.
+2. **Apply GTK and Icons**: Use a tool like `nwg-look` (if available on your system) to set the GTK theme to **Colloid-Teal-Dark** and the Icon theme to **Colloid-teal-nord-dark**.
 3. *Note for Obsidian users:* For Obsidian, you must manually select the Omarchy theme via Appearance > Themes inside the app.
 
 ## How to Uninstall
 
-If you wish to remove the theme from your system:
+If you wish to remove the Omarchy theme from your system:
 1. Open the Omarchy menu (`Super + Alt + Space`).
 2. Navigate to `Remove > Style > Theme`.
 3. Select the theme from the list to remove it.
-
----
-*Built for the Omarchy community.*
