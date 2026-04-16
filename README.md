@@ -2,7 +2,7 @@
 
 A dark, minimalist, and elegant theme created specifically for the Omarchy distribution. It is focused on productivity and visual comfort, featuring subtle teal accents.
 
-![https://i.ibb.co/HpDyR36P/screenshot-2026-04-16-10-42-43.png]
+![https://i.ibb.co/HpDyR36P/screenshot-2026-04-16-10-42-43.png](https://i.ibb.co/HpDyR36P/screenshot-2026-04-16-10-42-43.png)
 
 ## Color Palette
 
