@@ -8,10 +8,10 @@ The theme was designed to be easy on the eyes during long working sessions, opti
 
 | Element | Color (Hex) | Preview |
 |---------|-------------|---------|
-| **Background** | `#101315` | ![#101315] |
-| **Foreground** | `#cacccc` | ![#cacccc] |
-| **Accent (Teal)** | `#80b5b4` | ![#80b5b4] |
-| **Muted/Borders**| `#a3a6a7` | ![#a3a6a7] |
+| **Background** | `#101315` |
+| **Foreground** | `#cacccc` |
+| **Accent (Teal)** | `#80b5b4` |
+| **Muted/Borders**| `#a3a6a7` |
 
 ## Supported Applications
 
