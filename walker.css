@@ -31,7 +31,7 @@ window .box-wrapper {
     background: alpha(@base, 0.95);           /* Transparência leve sobre o papel de parede */
     border: 2px solid alpha(@border, 0.35);   /* Borda visível mas não agressiva */
     border-radius: 12px;                      /* Bordas bem mais arredondadas */
-    padding: 12px;                            /* Margens internas mais confortáveis */
+    padding: 12px 12px 0 12px;                            /* Margens internas mais confortáveis */
     margin-left: 100px;
     margin-right: 100px;
     backdrop-filter: blur(12px);              /* Efeito de vidro fosco suave */
