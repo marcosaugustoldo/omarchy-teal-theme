@@ -6,8 +6,8 @@ A dark, minimalist, and elegant theme created specifically for the Omarchy distr
 
 The theme was designed to be easy on the eyes during long working sessions, optimized for Hyprland and Wayland environments:
 
-| Element | Color (Hex) | Preview |
-|---------|-------------|---------|
+| Element | Color (Hex) |
+|---------|-------------|
 | **Background** | `#101315` |
 | **Foreground** | `#cacccc` |
 | **Accent (Teal)** | `#80b5b4` |
