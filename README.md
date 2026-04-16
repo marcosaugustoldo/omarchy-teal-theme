@@ -36,7 +36,7 @@ You can install the theme in Omarchy using two methods:
 Open your preferred terminal and run the following command:
 
 ```bash
-omarchy-theme-install [https://github.com/marcosaugustoldo/omarchy-teal-theme](https://github.com/marcosaugustoldo/omarchy-teal-theme)
+omarchy-theme-install https://github.com/marcosaugustoldo/omarchy-teal-theme
 ```
 
 ### Method 2: Via Omarchy Menu (GUI)
