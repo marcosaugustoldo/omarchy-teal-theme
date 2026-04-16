@@ -1,17 +1,61 @@
-# Solitude
+# Omarchy Teal Theme
 
-# Installation
+A dark, minimalist, and elegant theme created specifically for the Omarchy distribution. It is focused on productivity and visual comfort, featuring subtle teal accents.
 
-To install this theme, simply use the omarchy-theme-install command:
+## Color Palette
+
+The theme was designed to be easy on the eyes during long working sessions, optimized for Hyprland and Wayland environments:
+
+| Element | Color (Hex) | Preview |
+|---------|-------------|---------|
+| **Background** | `#101315` | ![#101315](https://via.placeholder.com/15/101315/000000?text=+) |
+| **Foreground** | `#cacccc` | ![#cacccc](https://via.placeholder.com/15/cacccc/000000?text=+) |
+| **Accent (Teal)** | `#80b5b4` | ![#80b5b4](https://via.placeholder.com/15/80b5b4/000000?text=+) |
+| **Muted/Borders**| `#a3a6a7` | ![#a3a6a7](https://via.placeholder.com/15/a3a6a7/000000?text=+) |
+
+## Supported Applications
+
+This theme provides complete and harmonious customization across the entire Omarchy ecosystem:
+- **Hyprland**: Active and inactive border colors.
+- **Waybar & Walker**: Top bar and application launcher styling with blur effects and visual accents.
+- **Alacritty / Kitty / Ghostty**: Terminal emulator color schemes.
+- **GTK 3/4**: System windows, dialogs, and buttons.
+- **Btop & Cava**: System monitoring and audio visualizers.
+- **Mako**: Notification daemon styling.
+- **Chromium**: Browser theme integration.
+- **Neovim**: Editor integration using the Ashen colorscheme.
+- **Hyprlock**: Lock screen customization.
+
+## Installation
+
+You can install the theme in Omarchy using two methods:
+
+### Method 1: Via Terminal
+Open your preferred terminal and run the following command:
 
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-solitude-theme.git
+omarchy-theme-install [https://github.com/marcosaugustoldo/omarchy-teal-theme](https://github.com/marcosaugustoldo/omarchy-teal-theme)
 ```
 
+### Method 2: Via Omarchy Menu (GUI)
+1. Press `Super + Alt + Space` to open the Omarchy control menu.
+2. Navigate to `Install > Style > Theme`.
+3. Paste the URL of this repository: `https://github.com/marcosaugustoldo/omarchy-teal-theme`.
 
+## How to Apply the Theme
 
-<img width="1920" height="1080" alt="screenshot-2026-02-28_20-59-57" src="https://github.com/user-attachments/assets/26e43031-6cab-4da1-8815-db095532865d" />
-<img width="1920" height="1080" alt="screenshot-2026-02-28_21-05-35" src="https://github.com/user-attachments/assets/ea7a9a8c-0346-4cc7-afdb-bb923f6e0868" />
+Once installed, you can activate the theme immediately:
+1. Hop directly to the theme selector using `Super + Ctrl + Shift + Space`.
+2. Select **Teal** (or the respective repository name) from the list.
+3. *Note for Obsidian users:* For Obsidian, you must manually select the Omarchy theme via Appearance > Themes inside the app.
 
-#### Recommendations for 3rd-Party App Theming
-Using Bypass Theme-Hook script for GTK, Vesktop, Steam, Spotify etc [LINK](https://github.com/imbypass/omarchy-theme-hook)
+## How to Uninstall
+
+If you wish to remove the theme from your system:
+1. Open the Omarchy menu (`Super + Alt + Space`).
+2. Navigate to `Remove > Style > Theme`.
+3. Select the theme from the list to remove it.
+
+---
+*Built for the Omarchy community.*
+```
