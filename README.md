@@ -40,7 +40,7 @@ To get the exact look from the screenshots, we recommend installing the specific
 
 Open your terminal and run the following commands to install the [Colloid Themes (by Vince)](https://github.com/vinceliuice) with the matching Teal accents.
 
-**GTK Theme ([Colloid Dark Teal](https://github.com/vinceliuice/Colloid-gtk-theme)):**
+**GTK Theme ([Colloid Dark Nord Teal](https://github.com/vinceliuice/Colloid-gtk-theme)):**
 
 ```bash
 git clone https://github.com/vinceliuice/Colloid-gtk-theme.git
